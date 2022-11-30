@@ -1,0 +1,12 @@
+E:\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe.config
+E:\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.exe
+E:\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.pdb
+E:\EnigmaMachine\EnigmaMachine\bin\Debug\EnigmaMachine.xml
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.vbproj.AssemblyReference.cache
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.Form1.resources
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.Resources.resources
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.vbproj.GenerateResource.cache
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.vbproj.CoreCompileInputs.cache
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.exe
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.xml
+E:\EnigmaMachine\EnigmaMachine\obj\Debug\EnigmaMachine.pdb
